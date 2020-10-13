@@ -1,1 +1,1 @@
-Testing VS code in WSL
+Testing VS code in WSL v2
